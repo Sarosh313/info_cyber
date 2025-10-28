@@ -36,9 +36,9 @@ Cybersecurity is a subset of Information Security
 | A hacker steals customer database from a website  | Concerned about **loss of confidentiality** of customer data.  | Concerned about **how the hacker breached the server** and **Network vulnerabilities**.
 | Employee prints confidential data and leaks it    | **Handled under InfoSec** (pysical data breach).               | Not considered a **cyber** issue (no digital attack involved).
 ## Summary
-| Point       | InfoSec             | Cybersecurity
-| ----------- | ------------------- |
-| Focus       | Data (any form)     | Digital enviroment
-| Coverage    | Broader             | Subset of InfoSec
-| Threat Type | Physical + Digital  | Cybersecurity
-| Goal        | CIA of all data     | CIA of digital assets
+| Point       | InfoSec             | Cybersecurity         |
+| ----------- | ------------------- | -------------------   |
+| Focus       | Data (any form)     | Digital enviroment    |
+| Coverage    | Broader             | Subset of InfoSec     |
+| Threat Type | Physical + Digital  | Cybersecurity         |
+| Goal        | CIA of all data     | CIA of digital assets |
